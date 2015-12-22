@@ -1,0 +1,7 @@
+One way Slack offers extensibility is “Slackbots”.
+Slackbots are items that can be configured to fire based on a keyword
+typed into Slack.
+
+Follow tutorial at sitepoint to build a custom Slackbot that triggers
+on a keyword, performs some action, and responds back to Slack.
+It is buili using Ruby and the Sinatra web framework.
